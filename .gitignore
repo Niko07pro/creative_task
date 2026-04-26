@@ -1,0 +1,14 @@
+# окружение
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# данные и артефакты
+data/
+artifacts/checkpoints/
+artifacts/preds/
+
+# системное
+.DS_Store
+Thumbs.db
