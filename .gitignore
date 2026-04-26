@@ -8,7 +8,3 @@ __pycache__/
 data/
 artifacts/checkpoints/
 artifacts/preds/
-
-# системное
-.DS_Store
-Thumbs.db
